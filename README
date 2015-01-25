@@ -1,1 +1,2 @@
-This algorithm estimates the pose of the head from low resolution images
+This algorithm estimates the pose of the head from low resolution images. The SymmetryDetector class implements how to extraction 
+symmetrical feature of front and back of head,and non-symmetrical  features of left and right side of head.
